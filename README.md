@@ -4,7 +4,7 @@
 2. Installation
    To install the project, follow these steps:
 
-3. Clone the repository: git clone https://github.com/JayeshMalviya5/manufacanalytics.git
+3. Clone the repository: git clone https://github.com/gouravsethi933/assignment_manufac.git
    Install the dependencies: yarn install
 
 4. To run the build
